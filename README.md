@@ -28,6 +28,6 @@ cd your-folder-name
 
 ## 檔案說明 (Files)
 
-- `privacy.txt` - 隱私權政策
-- `copyright.txt` - 版權聲明
-- `support.txt` - 聯絡資訊
+- `privacy.txt` - ECAndTemp 應用程式的隱私權政策（Privacy Policy for ECAndTemp app）
+- `copyright.txt` - 余鴻駿全鴻生技企業行的版權聲明與使用條款（Copyright notice and terms of use）
+- `support.txt` - 聯絡資訊：余鴻駿 nilson@ioterp.tw +886-988118488（Contact information）
